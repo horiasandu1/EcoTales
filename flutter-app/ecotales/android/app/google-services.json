@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "375941664272",
+    "project_id": "ecotales",
+    "storage_bucket": "ecotales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375941664272:android:e96170b23a8398e808c495",
+        "android_client_info": {
+          "package_name": "com.example.ecotales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375941664272-redp5eo46if7to9qjcrdfcobaktou2lj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgY531bwhGKBCHNxPE9dRLxkoj0toX8eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375941664272-redp5eo46if7to9qjcrdfcobaktou2lj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "375941664272-289rdg8cj3hfp3derdo044tqmtao5mlu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.ecotales"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
