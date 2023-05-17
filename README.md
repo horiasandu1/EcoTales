@@ -103,6 +103,9 @@ _INSTRUCTIONS: The following deliverables are suggested, but **optional**. Addit
 
 INSTRUCTIONS: In this section you add the instructions to run your project on your local machine for development and testing purposes. You can also add instructions on how to deploy the project in production.
 
+To run ecotales API:
+gunicorn -w 4 -k uvicorn.workers.UvicornWorker main:app
+
 ### Live demo
 
 You can find a running system to test at...
