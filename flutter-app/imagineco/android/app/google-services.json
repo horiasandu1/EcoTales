@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "159652103346",
+    "project_id": "imagineco",
+    "storage_bucket": "imagineco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159652103346:android:692eae1c45cb86d21b35ab",
+        "android_client_info": {
+          "package_name": "com.example.imagineco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159652103346-kin3feh1s1rrcue2kgnt0g8occsruioh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4oteBS2Iq1a44n6l52a5uNsQvuyeNISY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159652103346-kin3feh1s1rrcue2kgnt0g8occsruioh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159652103346-asdm1vpq0lk7tjgedpljo3dtie0js154.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imagineco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
